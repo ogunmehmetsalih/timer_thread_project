@@ -1,5 +1,4 @@
-from timer_thread import TimerThread
-from timer_thread import sthread
+from timer_thread import*
 
 
 if __name__ == "__main__":
